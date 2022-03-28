@@ -1,5 +1,4 @@
-package com.fr.apiinsertion;
-
+package com.fr;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
