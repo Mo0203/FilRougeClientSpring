@@ -1,15 +1,19 @@
 #container {
     display: flex;
     flex-direction: column;
+    margin: 0;
+    height:100vh;
 }
 
 #topper {
-    height:20%;
+    height:12%;
     background-color: black;
     color: white;
+    text-align: center;
 }
 
 #contentPane {
-    height: 80%;
+    height: 88%;
     background-color:pink;
+    box-sizing: border-box;
 }
