@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+#topper {
+    height:20%;
+    background-color: black;
+    color: white;
+}
+
+#contentPane {
+    height: 80%;
+    background-color:pink;
+}
